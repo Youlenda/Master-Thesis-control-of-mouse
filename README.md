@@ -1,5 +1,8 @@
 # Master-Thesis-control-of-mouse
 
+
+
+Title: Control of Computer Mouse Using Hand Movement Detection in otion Pictures.
 Abstract
 
 A long time ago, the human being was always dreaming about picking things up, taking a simple hand gesture. Although up to now, no one could've moved things without having direct touch, Artificial Intelligence allows individuals to control the intelligent system by using hand gestures in front of a camera and without having a single contact.
